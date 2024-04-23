@@ -1,6 +1,6 @@
 #!/bin/bash
-MAX_RAM="1500M"
-MIN_RAM="500M"
+MAX_RAM="3000M"
+MIN_RAM="1500M"
 JVM_ARGS="-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:MaxGCPauseMillis=100 -XX:+DisableExplicitGC"
 SERVER_JAR="paper.jar"
 SERVER_ARGS=""
