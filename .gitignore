@@ -11,3 +11,4 @@ world_the_end/
 server.properties
 *.db
 *.log
+plugins/AuthMe/*.db

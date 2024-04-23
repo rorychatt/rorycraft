@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 176.46.65.41
+ip-address: 90.230.168.248
 afk: false
 socialspy: false
 npc: false
@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1705741372430
+  lastteleport: 1713865056758
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1705741864828
-  login: 1705741161972
+  login: 1713865040439
 money: '0'
 last-account-name: rorychatt
 logoutlocation:
@@ -31,8 +31,8 @@ logoutlocation:
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: -911.7737162835255
-  y: 156.8023284999467
-  z: 349.78374501378454
-  yaw: -94.1688232421875
-  pitch: -12.921614646911621
+  x: -1247.5156435847987
+  y: 64.0
+  z: 506.58058692676497
+  yaw: -141.452880859375
+  pitch: 3.747128963470459
