@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.116.164.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1704120270318
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707124278456
+  login: 1707124198769
+money: '0'
+last-account-name: _ERnek_
+lastlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 11.850786160871312
+  y: 245.0
+  z: -288.30000001192093
+  yaw: -41.81494140625
+  pitch: -1.6499453783035278
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 6.224502538196455
+  y: 184.0
+  z: -114.342850026152
+  yaw: -15.149688720703125
+  pitch: 40.499839782714844
+homes:
+  home:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: 18.610537093853146
+    y: 256.0
+    z: -284.10839052702505
+    yaw: -76.8642578125
+    pitch: 69.74979400634766

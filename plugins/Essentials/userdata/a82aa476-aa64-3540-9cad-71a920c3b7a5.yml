@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.123.169.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1704121802627
+  login: 1704118316973
+money: '0'
+last-account-name: yankeyy
+lastlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 12.5
+  y: 104.0
+  z: 57.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 28.69999998807907
+  y: 252.0
+  z: -269.30000001192093
+  yaw: 118.3228759765625
+  pitch: 7.123104095458984

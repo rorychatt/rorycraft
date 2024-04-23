@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "104.28.217.64",
+    "created": "2024-01-20 12:01:09 +0300",
+    "source": "rorychatt",
+    "expires": "forever",
+    "reason": "flyhack"
+  },
+  {
+    "ip": "104.28.249.64",
+    "created": "2024-01-20 12:01:47 +0300",
+    "source": "rorychatt",
+    "expires": "forever",
+    "reason": "На вас наложили великую печать Бана!"
+  }
+]

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.173.188.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705176509326
+  login: 1705176292772
+money: '0'
+last-account-name: IOOU
+lastlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 7.5
+  y: 103.0
+  z: 49.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 37.28639923287785
+  y: 104.41999998688698
+  z: -24.719364226871768
+  yaw: -18.28508949279785
+  pitch: 41.554256439208984
