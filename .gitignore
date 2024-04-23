@@ -8,3 +8,6 @@ world_nether/
 world_the_end/
 .console_history
 *.jar
+server.properties
+*.db
+*.log
