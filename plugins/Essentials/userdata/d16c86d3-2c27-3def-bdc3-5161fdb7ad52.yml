@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714145384105
-  login: 1714143671255
+  logout: 1714160211516
+  login: 1714160238888
 money: '0'
 last-account-name: Biritosa
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 1882.2330548074096
-  y: 115.0
-  z: 255.4366756644544
-  yaw: 91.3472900390625
-  pitch: 55.0499267578125
+  x: 2195.532577649431
+  y: 55.19500004768371
+  z: -1613.1973615680174
+  yaw: -3.2749929428100586
+  pitch: 7.650147438049316

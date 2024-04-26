@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 46.173.188.158
+ip-address: 85.249.168.86
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1705176477581
-  login: 1705176161822
+  logout: 1714157478638
+  login: 1714156898030
 money: '0'
 last-account-name: CHOMIK
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 56.469080993946214
-  y: 106.0
-  z: -40.604300705506915
-  yaw: 91.36474609375
-  pitch: 3.454395294189453
+  x: 56.022517298959045
+  y: 105.9375
+  z: -55.21775805797054
+  yaw: -8.9827880859375
+  pitch: 15.154349327087402

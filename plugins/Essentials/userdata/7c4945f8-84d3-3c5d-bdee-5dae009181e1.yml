@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714143990258
-  login: 1714143566025
+  logout: 1714160211519
+  login: 1714160383344
 money: '0'
 last-account-name: velles
 lastlocation:
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 5151.114408636083
-  y: 65.0
-  z: 4970.079923525917
-  yaw: 147.69403076171875
-  pitch: -1.8004040718078613
+  x: 5194.715356742674
+  y: 66.0
+  z: 5058.378925190581
+  yaw: -22.729248046875
+  pitch: 41.399139404296875
 homes:
   home:
     world: c8a5230b-d024-48c8-9a32-a9deba1f346b
