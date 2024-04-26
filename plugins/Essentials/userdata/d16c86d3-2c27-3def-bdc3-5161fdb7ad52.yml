@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1714165565789
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714160211516
-  login: 1714160238888
+  logout: 1714165901653
+  login: 1714164859503
 money: '0'
 last-account-name: Biritosa
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 20.5
-  y: 103.0
-  z: 40.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 1881.059856547121
+  y: 114.0
+  z: 260.16860238337966
+  yaw: 141.13671875
+  pitch: 35.85012435913086
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 2195.532577649431
-  y: 55.19500004768371
-  z: -1613.1973615680174
-  yaw: -3.2749929428100586
-  pitch: 7.650147438049316
+  x: 1881.3776346929667
+  y: 114.0
+  z: 265.5416060255445
+  yaw: -173.5605926513672
+  pitch: 20.400209426879883
+homes:
+  home:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: 1881.059856547121
+    y: 114.0
+    z: 260.16860238337966
+    yaw: 152.387939453125
+    pitch: 34.95012283325195

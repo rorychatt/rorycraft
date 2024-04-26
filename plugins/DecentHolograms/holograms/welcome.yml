@@ -9,4 +9,10 @@ pages:
 - lines:
   - content: '&fДобро пожаловать на &6RoryCraft 2024'
     height: 0.3
+  - content: '&6//wand&f - Приваты топориком'
+    height: 0.3
+  - content: '&6/warp&f - Список варпов'
+    height: 0.3
+  - content: '&6/sb toggle&f - Отключить табличку справа'
+    height: 0.3
   actions: {}

@@ -186,4 +186,24 @@ data-version: 3|2|3700
           enchants:
             DURABILITY: 10
           repair-cost: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 4
+          Damage: 125
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_PICKAXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 3
   snapshots: []

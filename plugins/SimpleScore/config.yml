@@ -74,10 +74,10 @@ storage:
 # - The leftmost scoreboard in the list always takes priority.
 worlds:
   # If player doesn't meet the conditions to see the conditional scoreboard then it will display the simple scoreboard
-  world_the_end: [ 'conditional', 'simple' ]
+  # world_the_end: [ 'conditional', 'simple' ]
   # This will match all worlds starting with "world_" (e.g. world_nether, world_the_end)
   # "world_the_end" will never reach this line since it already matched above
-  world_\w*: [ 'customTiming' ]
+  # world_\w*: [ 'customTiming' ]
   # This will match all worlds that haven't been defined above
   '[\w\- ]*': [ 'simple' ]
   # Adding anything here will not work as it was already matched by the regex specified above

@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 90.230.168.248
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1714160468965
+  lastteleport: 1714165662876
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714160211523
-  login: 1714160237855
+  logout: 1714165800554
+  login: 1714164853658
 money: '9000.0'
 last-account-name: rorychatt
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 60.725108816328294
-  y: 96.9375
-  z: 4.001004635911312
-  yaw: -165.26495361328125
-  pitch: 14.24992561340332
+  x: 60.59664490665763
+  y: 97.0
+  z: 9.279237911564257
+  yaw: 77.56692504882812
+  pitch: 17.700063705444336
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 682.6643295953836
-  y: 95.0
-  z: 360.3087174759664
-  yaw: -89.31861114501953
-  pitch: -7.510164260864258
+  x: 26.765900309026826
+  y: 98.0
+  z: 12.808593514865134
+  yaw: 151.6719970703125
+  pitch: 9.75015640258789
