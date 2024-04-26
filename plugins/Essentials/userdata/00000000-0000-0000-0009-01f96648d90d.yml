@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 95.220.205.129
+ip-address: 85.225.46.7
 afk: false
 socialspy: false
 npc: false
@@ -16,23 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714145384105
-  login: 1714143671255
+  logout: 1714151887601
+  login: 1714151857561
 money: '0'
-last-account-name: Biritosa
-lastlocation:
-  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
-  world-name: world
-  x: 20.5
-  y: 103.0
-  z: 40.5
-  yaw: 0.0
-  pitch: 0.0
+last-account-name: DespoticMouse19
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 1882.2330548074096
-  y: 115.0
-  z: 255.4366756644544
-  yaw: 91.3472900390625
-  pitch: 55.0499267578125
+  x: 8.002826
+  y: 103.0
+  z: 50.39282
+  yaw: 99.371337890625
+  pitch: 0.0

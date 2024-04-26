@@ -1,3 +1,5 @@
-Welcome {PLAYER} on {SERVER} server
 
-This server uses AuthMeReloaded protection!
+Добро пожаловать, {PLAYER}!
+Вы играете на сервере &6RoryCraft
+
+Авторизация прошла успешно!
