@@ -1,0 +1,12 @@
+location: world:61.545:100.593:9.409
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&fДобро пожаловать на &6RoryCraft 2024'
+    height: 0.3
+  actions: {}
