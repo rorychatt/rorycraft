@@ -16,3 +16,5 @@ plugins/AuthMe/authme.db
 plugins/AuthMe/authme.log
 plugins/SkinsRestorer/*
 plugins/AuthMe/
+usercache.json
+plugins/Essentials/userdata/2cb7a89a-1c9d-3458-8a82-75551022a3cf.yml
