@@ -10,7 +10,6 @@ world_the_end/
 server.properties
 *.db
 *.log
-*.yml
 plugins/AuthMe/authme.db
 plugins/AuthMe/authme.log
 plugins/SkinsRestorer/
