@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714233407380
-  login: 1714233487084
+  logout: 1714233536463
+  login: 1714233537908
 money: '9000.0'
 last-account-name: rorychatt
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 63.605240146386535
-  y: 97.0
-  z: 3.7624999880790715
-  yaw: -23.100698471069336
-  pitch: 8.70012378692627
+  x: 62.517798399230465
+  y: 96.9375
+  z: 3.876194706076594
+  yaw: 163.34912109375
+  pitch: 6.900135040283203
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
