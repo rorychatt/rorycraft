@@ -17,3 +17,6 @@ plugins/SkinsRestorer/
 plugins/Essentials/
 plugins/AuthMe/
 usercache.json
+ops.json
+plugins/CoreProtect/.license
+server.properties
