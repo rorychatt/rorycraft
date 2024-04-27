@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 90.230.168.248
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714165800554
-  login: 1714232941043
+  logout: 1714233239110
+  login: 1714233263282
 money: '9000.0'
 last-account-name: rorychatt
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 60.59664490665763
-  y: 97.0
-  z: 9.279237911564257
-  yaw: 77.56692504882812
-  pitch: 17.700063705444336
+  x: 62.46965231214335
+  y: 96.9375
+  z: 3.085085108697066
+  yaw: 4.799285888671875
+  pitch: 11.25011920928955
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
