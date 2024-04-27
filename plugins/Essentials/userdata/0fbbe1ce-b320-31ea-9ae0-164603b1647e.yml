@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714233239108
+  logout: 1714233407376
   login: 1714233289071
 money: '0'
 last-account-name: DumacukD
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: -92.54962870228897
-  y: 187.0
-  z: 167.88100624957045
-  yaw: -176.3489990234375
-  pitch: 8.542091369628906
+  x: -109.79443506337499
+  y: 183.9215999984741
+  z: 163.69999998807907
+  yaw: 88.75601196289062
+  pitch: 12.715532302856445
 homes:
   home:
     world: c8a5230b-d024-48c8-9a32-a9deba1f346b
