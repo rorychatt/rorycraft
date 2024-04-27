@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 151.249.238.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714225280109
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714225295753
+  login: 1714220050993
+money: '0'
+last-account-name: Karamlekus
+lastlocation:
+  world: 9b6f3a51-b19e-4857-b1f1-87cbee334cda
+  world-name: world_nether
+  x: 391.675008827733
+  y: 62.0
+  z: 204.58773691422152
+  yaw: -8.844939231872559
+  pitch: 9.839212417602539
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: 689.5
+  y: 96.0
+  z: 356.5
+  yaw: -5.791662693023682
+  pitch: 54.8824462890625
+homes:
+  home:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: 689.6103521449627
+    y: 96.0
+    z: 356.69999998807907
+    yaw: 81.40444946289062
+    pitch: 22.311128616333008

@@ -1,0 +1,209 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3700
+'1':
+  uniqueId: 845855da-c072-47fd-b27f-875e631b322b
+  world: world
+  x: 57
+  y: 97
+  z: 4
+  yaw: 103.6272
+  type: admin
+  name: Boris Dlinnonogij
+  object:
+    type: enderman
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"RoryCoin","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+          enchants:
+            DURABILITY: 10
+          repair-cost: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_BLOCK
+        amount: 32
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND_BLOCK
+        amount: 30
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEDROCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"RoryCoin","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+          enchants:
+            DURABILITY: 10
+          repair-cost: 1
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Мозгодолбитель"]}'
+          lore:
+          - '{"text":"","extra":["RoryTools"]}'
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STICK
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIRT
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_SHOVEL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Перфоратор"]}'
+          lore:
+          - '{"text":"","extra":["RoryTools"]}'
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STICK
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIRT
+        amount: 64
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":["Обрезатор"]}'
+          lore:
+          - '{"text":"","extra":["RoryTools"]}'
+          enchants:
+            DIG_SPEED: 5
+            DURABILITY: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STICK
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIRT
+        amount: 64
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GOLDEN_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_MOBS: 4
+            DURABILITY: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: STICK
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIRT
+        amount: 64
+  snapshots: []
+'2':
+  uniqueId: 976872a8-b8cf-4a67-9372-d3dc77391407
+  world: world
+  x: 65
+  y: 97
+  z: 4
+  yaw: 263.78033
+  type: admin
+  name: Armadilla
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DIG_SPEED: 7
+            LOOT_BONUS_BLOCKS: 4
+            MENDING: 1
+            DURABILITY: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_PICKAXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: BEDROCK
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"RoryCoin","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_red","bold":false}]}'
+          enchants:
+            DURABILITY: 10
+          repair-cost: 1
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            LOOT_BONUS_BLOCKS: 4
+          Damage: 125
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: IRON_PICKAXE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: DIAMOND
+        amount: 3
+  snapshots: []

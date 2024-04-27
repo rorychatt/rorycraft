@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.147.169.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714232481317
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714233239108
+  login: 1714233289071
+money: '0'
+last-account-name: DumacukD
+lastlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: -209.692262664082
+  y: 167.0
+  z: 62.247304508112386
+  yaw: 58.19677734375
+  pitch: 7.699782371520996
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: -92.54962870228897
+  y: 187.0
+  z: 167.88100624957045
+  yaw: -176.3489990234375
+  pitch: 8.542091369628906
+homes:
+  home:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: -99.68134604729086
+    y: 187.0
+    z: 173.42126265426003
+    yaw: 100.00550079345703
+    pitch: 9.680166244506836
+  dumabase:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: -4541.692845024496
+    y: 63.0
+    z: 1217.0343506765998
+    yaw: 163.6583709716797
+    pitch: -22.306381225585938
