@@ -11,37 +11,45 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1714163450556
+  lastteleport: 1714232481317
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714164132780
-  login: 1714162605270
+  logout: 1714176108600
+  login: 1714210105601
 money: '0'
 last-account-name: DumacukD
 lastlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 61.81313542612689
-  y: 96.9375
-  z: 3.7522784089462573
-  yaw: 7.129117965698242
-  pitch: 8.27718448638916
+  x: -209.692262664082
+  y: 167.0
+  z: 62.247304508112386
+  yaw: 58.19677734375
+  pitch: 7.699782371520996
+logoutlocation:
+  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+  world-name: world
+  x: -100.01945646975558
+  y: 187.0
+  z: 173.2804217169418
+  yaw: 0.915771484375
+  pitch: 28.006256103515625
 homes:
   home:
     world: c8a5230b-d024-48c8-9a32-a9deba1f346b
     world-name: world
-    x: -104.2824604753475
+    x: -99.68134604729086
     y: 187.0
-    z: 184.11877360507512
-    yaw: 177.57183837890625
-    pitch: 21.195571899414062
-logoutlocation:
-  world: c8a5230b-d024-48c8-9a32-a9deba1f346b
-  world-name: world
-  x: -104.90577742783988
-  y: 187.0
-  z: 182.75563738300696
-  yaw: -110.78009033203125
-  pitch: 46.10593795776367
+    z: 173.42126265426003
+    yaw: 100.00550079345703
+    pitch: 9.680166244506836
+  dumabase:
+    world: c8a5230b-d024-48c8-9a32-a9deba1f346b
+    world-name: world
+    x: -4541.692845024496
+    y: 63.0
+    z: 1217.0343506765998
+    yaw: 163.6583709716797
+    pitch: -22.306381225585938

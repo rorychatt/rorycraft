@@ -14,3 +14,4 @@ server.properties
 plugins/AuthMe/authme.db
 plugins/AuthMe/authme.log
 plugins/SkinsRestorer/*
+plugins/AuthMe/

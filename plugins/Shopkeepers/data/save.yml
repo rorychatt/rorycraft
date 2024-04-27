@@ -153,7 +153,7 @@ data-version: 3|2|3700
   object:
     type: villager
     baby: false
-    profession: NONE
+    profession: ARMORER
     villagerType: PLAINS
     villagerLevel: 1
   recipes:

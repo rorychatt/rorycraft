@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1714165840354
+  logout: 1714166038306
   login: 1714165843495
 money: '0'
 last-account-name: HeucToBblU
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: c8a5230b-d024-48c8-9a32-a9deba1f346b
   world-name: world
-  x: 56.50671542604738
+  x: 80.67620439007284
   y: 97.0
-  z: 8.103998951995404
-  yaw: -127.82044219970703
-  pitch: 31.082773208618164
+  z: 28.30000001192093
+  yaw: 157.97653198242188
+  pitch: 21.299955368041992
