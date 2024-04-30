@@ -1,4 +1,4 @@
-location: world:38.406:106.000:-2.450
+location: world:38.429:107.000:-2.717
 enabled: true
 display-range: 48
 update-range: 48
@@ -15,4 +15,7 @@ pages:
     height: 0.3
   - content: '&6/sb toggle&f - Отключить табличку справа'
     height: 0.3
+  - content: '&6/jobs browse&f - Cписок работ'
+    height: 0.3
+
   actions: {}
