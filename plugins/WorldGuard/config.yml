@@ -20,7 +20,18 @@ regions:
     set-parent-on-claim: ''
     location-flags-only-inside-regions: false
     max-region-count-per-player:
-        default: 7
+        default: 2
+        player: 2
+        copper: 3
+        iron: 5
+        gold: 7
+        diamond: 10
+        emerald: 15
+        netherite: 20
+        helper: 500
+        moder: 1000
+        admin: 1000
+        headadmin: 1000
 auto-invincible: false
 auto-invincible-group: false
 auto-no-drowning-group: false

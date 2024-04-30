@@ -1,0 +1,12 @@
+location: world:87.172:106.631:28.152
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: Тюрьма - /warp jail
+    height: 0.3
+  actions: {}
