@@ -134,7 +134,7 @@ JobExpirationTime: 0
 # Maximum number of jobs a player can join.
 # Use -1 to disable limitations
 # Keep in mind that jobs.max.[amount] will bypass this setting
-max-jobs: 3
+max-jobs: 4
 # Disabling the payment if the user reached the maximum level of a job.
 disable-payment-if-max-level-reached: false
 # Hide jobs from player if they lack the permission to join the job
