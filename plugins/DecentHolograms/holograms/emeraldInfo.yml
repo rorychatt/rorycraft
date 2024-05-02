@@ -1,0 +1,16 @@
+location: world:20.765:105.500:-19.433
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: "Количество точек дома: &68"
+    height: 0.3
+  - content: "Количество приватов: &615"
+    height: 0.3
+  - content: test
+    height: 0.3
+  actions: {}

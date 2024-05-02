@@ -1,4 +1,4 @@
-location: world:77.029:154.000:27.399
+location: world:92.342:104.868:-58.003
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,6 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: Тюрьма - /warp jail
+  - content: /warp fishing
     height: 0.3
   actions: {}

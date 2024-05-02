@@ -1,4 +1,4 @@
-location: world:77.029:154.000:27.399
+location: world:38.491:104.784:-3.019
 enabled: true
 display-range: 48
 update-range: 48
@@ -7,6 +7,6 @@ facing: 0.0
 down-origin: false
 pages:
 - lines:
-  - content: Тюрьма - /warp jail
+  - content: '&4Вечная ночь'
     height: 0.3
   actions: {}
