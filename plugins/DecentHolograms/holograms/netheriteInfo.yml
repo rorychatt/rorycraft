@@ -11,6 +11,4 @@ pages:
     height: 0.3
   - content: "Количество приватов: &620"
     height: 0.3
-  - content: test
-    height: 0.3
   actions: {}

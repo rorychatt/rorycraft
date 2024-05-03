@@ -11,6 +11,6 @@ pages:
     height: 0.3
   - content: "Количество приватов: &67"
     height: 0.3
-  - content: test
+  - content: "Возможность создать свою &6партию"
     height: 0.3
   actions: {}

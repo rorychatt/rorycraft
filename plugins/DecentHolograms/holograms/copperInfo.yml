@@ -11,6 +11,5 @@ pages:
     height: 0.3
   - content: "Количество приватов: &62"
     height: 0.3
-  - content: test
-    height: 0.3
+  - content: "Возможность работать в гос услугах"
   actions: {}

@@ -4,10 +4,10 @@ data-version: 3|2|3700
 '1':
   uniqueId: 845855da-c072-47fd-b27f-875e631b322b
   world: world
-  x: 33
-  y: 103
-  z: -3
-  yaw: 167.03029
+  x: 3
+  y: 105
+  z: -45
+  yaw: 260.06796
   type: admin
   name: Boris Dlinnonogij
   object:
@@ -144,10 +144,10 @@ data-version: 3|2|3700
 '2':
   uniqueId: 976872a8-b8cf-4a67-9372-d3dc77391407
   world: world
-  x: 43
-  y: 103
-  z: -3
-  yaw: 174.92595
+  x: 3
+  y: 105
+  z: -47
+  yaw: 323.55438
   type: admin
   name: Armadilla
   object:
