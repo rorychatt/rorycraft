@@ -50,7 +50,7 @@ simple:
     6: '&7» &6&l%vault_group%'
     5: '    &7%player%'
     4: ''
-    3: '&7» &6&lБаланс: &7%vault_eco_balance%&6 $'
+    3: '&7» &6&lБал: &7%vault_eco_balance%&6 $'
     2: '&7» &6&lОнлайн: &7%online%'
     1:
       - '&7&m+--------------+'
