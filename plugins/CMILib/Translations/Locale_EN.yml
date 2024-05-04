@@ -306,6 +306,7 @@ info:
   EntityType:
     allay: Allay
     area_effect_cloud: Area effect cloud
+    armadillo: Armadillo
     armor_stand: Armor stand
     arrow: Arrow
     axolotl: Axolotl
@@ -314,37 +315,42 @@ info:
     blaze: Blaze
     block_display: Block display
     boat: Boat
+    bogged: Bogged
     breeze: Breeze
+    breeze_wind_charge: Breeze wind charge
     camel: Camel
     cat: Cat
     cave_spider: Cave spider
     chest_boat: Chest boat
+    chest_minecart: Chest minecart
     chicken: Chicken
     cod: Cod
+    command_block_minecart: Command block minecart
     cow: Cow
     creeper: Creeper
     dolphin: Dolphin
     donkey: Donkey
     dragon_fireball: Dragon fireball
-    dropped_item: Dropped item
     drowned: Drowned
     egg: Egg
     elder_guardian: Elder guardian
     enderman: Enderman
     endermite: Endermite
-    ender_crystal: Ender crystal
     ender_dragon: Ender dragon
     ender_pearl: Ender pearl
-    ender_signal: Ender signal
+    end_crystal: End crystal
     evoker: Evoker
     evoker_fangs: Evoker fangs
+    experience_bottle: Experience bottle
     experience_orb: Experience orb
+    eye_of_ender: Eye of ender
     falling_block: Falling block
     fireball: Fireball
-    firework: Firework
-    fishing_hook: Fishing hook
+    firework_rocket: Firework rocket
+    fishing_bobber: Fishing bobber
     fox: Fox
     frog: Frog
+    furnace_minecart: Furnace minecart
     ghast: Ghast
     giant: Giant
     glow_item_frame: Glow item frame
@@ -352,29 +358,26 @@ info:
     goat: Goat
     guardian: Guardian
     hoglin: Hoglin
+    hopper_minecart: Hopper minecart
     horse: Horse
     husk: Husk
     illusioner: Illusioner
     interaction: Interaction
     iron_golem: Iron golem
+    item: Item
     item_display: Item display
     item_frame: Item frame
-    leash_hitch: Leash hitch
-    lightning: Lightning
+    leash_knot: Leash knot
+    lightning_bolt: Lightning bolt
     llama: Llama
     llama_spit: Llama spit
     magma_cube: Magma cube
     marker: Marker
     minecart: Minecart
-    minecart_chest: Minecart chest
-    minecart_command: Minecart command
-    minecart_furnace: Minecart furnace
-    minecart_hopper: Minecart hopper
-    minecart_mob_spawner: Minecart mob spawner
-    minecart_tnt: Minecart tnt
+    mooshroom: Mooshroom
     mule: Mule
-    mushroom_cow: Mushroom cow
     ocelot: Ocelot
+    ominous_item_spawner: Ominous item spawner
     painting: Painting
     panda: Panda
     parrot: Parrot
@@ -385,7 +388,7 @@ info:
     pillager: Pillager
     player: Player
     polar_bear: Polar bear
-    primed_tnt: Primed tnt
+    potion: Potion
     pufferfish: Pufferfish
     rabbit: Rabbit
     ravager: Ravager
@@ -400,16 +403,17 @@ info:
     small_fireball: Small fireball
     sniffer: Sniffer
     snowball: Snowball
-    snowman: Snowman
+    snow_golem: Snow golem
+    spawner_minecart: Spawner minecart
     spectral_arrow: Spectral arrow
     spider: Spider
-    splash_potion: Splash potion
     squid: Squid
     stray: Stray
     strider: Strider
     tadpole: Tadpole
     text_display: Text display
-    thrown_exp_bottle: Thrown exp bottle
+    tnt: Tnt
+    tnt_minecart: Tnt minecart
     trader_llama: Trader llama
     trident: Trident
     tropical_fish: Tropical fish
@@ -434,10 +438,13 @@ info:
   # Avoid adding color codes to the enchant name
   EnchantNames:
     dig_speed: Dig_speed
+    sweeping_edge: Sweeping_edge
     loot_bonus_mobs: Loot_bonus_mobs
     silk_touch: Silk_touch
     quick_charge: Quick_charge
     soul_speed: Soul_speed
+    density: Density
+    breach: Breach
     arrow_fire: Arrow_fire
     loot_bonus_blocks: Loot_bonus_blocks
     multishot: Multishot
@@ -466,7 +473,7 @@ info:
     fire_aspect: Fire_aspect
     knockback: Knockback
     depth_strider: Depth_strider
-    sweeping_edge: Sweeping_edge
+    wind_burst: Wind_burst
     arrow_infinite: Arrow_infinite
     vanishing_curse: Vanishing_curse
     damage_arthropods: Damage_arthropods
@@ -487,16 +494,22 @@ info:
     - Night vision
     weakness:
     - Weakness
+    minecraft:wind_charged:
+    - Minecraft:wind charged
     wither:
     - Wither
     slow_digging:
     - Slow digging
     slow_falling:
     - Slow falling
+    minecraft:raid_omen:
+    - Minecraft:raid omen
     luck:
     - Luck
     increase_damage:
     - Increase damage
+    minecraft:infested:
+    - Minecraft:infested
     poison:
     - Poison
     hero_of_the_village:
@@ -511,6 +524,8 @@ info:
     - Slow
     fast_digging:
     - Fast digging
+    minecraft:weaving:
+    - Minecraft:weaving
     glowing:
     - Glowing
     bad_omen:
@@ -535,8 +550,12 @@ info:
     - Hunger
     speed:
     - Speed
+    minecraft:trial_omen:
+    - Minecraft:trial omen
     darkness:
     - Darkness
+    minecraft:oozing:
+    - Minecraft:oozing
     damage_resistance:
     - Damage resistance
 direction:

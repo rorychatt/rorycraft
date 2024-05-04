@@ -1480,7 +1480,7 @@ EntityList:
   93-CHICKEN: Poule
   94-SQUID: Poulpe
   95-WOLF: Loup
-  96-MUSHROOM_COW: Champimeuh
+  97-SNOW_GOLEM: Snow Golem
   98-OCELOT: Ocelot
   99-IRON_GOLEM: Golem de Fer
   100-HORSE: Cheval
@@ -1519,9 +1519,12 @@ EntityList:
   938-WARDEN: Warden
   945-CAMEL: Camel
   946-SNIFFER: Sniffer
+  947-ARMADILLO: Armadillo
   914-PLAYER: Joueur
 EnchantList:
+  Density: Density
   Swiftsneak: Swiftsneak
+  Breach: Breach
   Protectionfall: Protectionfall
   Arrowinfinite: Arrowinfinite
   Arrowfire: Arrowfire
@@ -1536,7 +1539,6 @@ EnchantList:
   Protectionfire: Protectionfire
   Channeling: Canalisation
   Bindingcurse: Bindingcurse
-  Sweepingedge: Sweepingedge
   Quickcharge: Quickcharge
   Damagearthropods: Damagearthropods
   Frostwalker: Frostwalker
@@ -1544,6 +1546,7 @@ EnchantList:
   Protectionprojectile: Protectionprojectile
   Waterworker: Waterworker
   Soulspeed: Soulspeed
+  Windburst: Windburst
   Lootbonusmobs: Lootbonusmobs
   Damageundead: Damageundead
   Piercing: Perforation
@@ -1555,13 +1558,13 @@ EnchantList:
   Fireaspect: Fireaspect
   Oxygen: Oxygen
   Thorns: Épines
+  Sweepingedge: Sweepingedge
   Arrowknockback: Arrowknockback
   Damageall: Damageall
   Digspeed: Digspeed
   Lootbonusblocks: Lootbonusblocks
   Durability: Durability
 PotionEffects:
-  Uncraftable: Non fabricable
   Water: Eau
   Mundane: Banale
   Thick: Épaisse
@@ -1570,12 +1573,12 @@ PotionEffects:
   Long night vision: Long night vision
   Invisibility: Invisibilité
   Long invisibility: Long invisibility
-  Jump: Saut
+  Leaping: Leaping
   Long leaping: Long leaping
   Strong leaping: Strong leaping
   Fire resistance: Résistance au feu
   Long fire resistance: Long fire resistance
-  Speed: Rapidité
+  Swiftness: Swiftness
   Long swiftness: Long swiftness
   Strong swiftness: Strong swiftness
   Slowness: Lenteur
@@ -1583,14 +1586,14 @@ PotionEffects:
   Strong slowness: Strong slowness
   Water breathing: Apnée
   Long water breathing: Long water breathing
-  Instant heal: Soin instantané
+  Healing: Healing
   Strong healing: Strong healing
-  Instant damage: Dégâts instantanés
+  Harming: Harming
   Strong harming: Strong harming
   Poison: Poison
   Long poison: Long poison
   Strong poison: Strong poison
-  Regen: Régénération
+  Regeneration: Regeneration
   Long regeneration: Long regeneration
   Strong regeneration: Strong regeneration
   Strength: Force
@@ -1604,6 +1607,10 @@ PotionEffects:
   Strong turtle master: Strong turtle master
   Slow falling: Chute lente
   Long slow falling: Long slow falling
+  Wind charged: Wind charged
+  Weaving: Weaving
+  Oozing: Oozing
+  Infested: Infested
 ColorList:
   0-white: '&fBlanc'
   1-orange: '&6Orange'
