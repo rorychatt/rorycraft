@@ -1440,87 +1440,88 @@ ItemList:
   LEGACY_BREWING_STAND: Bloc d'Alambic
   LEGACY_WHEAT: Blé
 EntityList:
-  4-ELDER_GUARDIAN: Grand gardien
-  5-WITHER_SKELETON: Wither squelette
-  6-STRAY: Vagabon
-  23-HUSK: Zombie momifié
-  27-ZOMBIE_VILLAGER: Zombie-villageois
-  28-SKELETON_HORSE: Cheval-squelette
-  29-ZOMBIE_HORSE: Cheval-zombie
-  30-ARMOR_STAND: Porte-armure
-  31-DONKEY: Âne
-  32-MULE: Mule
-  34-EVOKER: Evocateur
-  35-VEX: Vex
-  36-VINDICATOR: Vindicateur
-  37-ILLUSIONER: Illusioneur
-  50-CREEPER: Creeper
-  51-SKELETON: Squelette
-  52-SPIDER: Araignée
-  53-GIANT: Géant
-  54-ZOMBIE: Zombie
-  55-SLIME: Slime
-  56-GHAST: Ghast
-  925-ZOMBIFIED_PIGLIN: Piglin zombifié
-  58-ENDERMAN: Enderman
-  59-CAVE_SPIDER: Araignée venimeuse
-  60-SILVERFISH: Poisson d'argent
-  61-BLAZE: Blaze
-  62-MAGMA_CUBE: Cube de magma
-  63-ENDER_DRAGON: EnderDragon
-  64-WITHER: WitherBoss
-  65-BAT: Chauve-souris
-  66-WITCH: Sorcière
-  67-ENDERMITE: Endermite
-  68-GUARDIAN: Gardien
-  69-SHULKER: Shulker
-  90-PIG: Cochon
-  91-SHEEP: Mouton
-  92-COW: Vache
-  93-CHICKEN: Poule
-  94-SQUID: Poulpe
-  95-WOLF: Loup
-  97-SNOW_GOLEM: Snow Golem
-  98-OCELOT: Ocelot
-  99-IRON_GOLEM: Golem de Fer
-  100-HORSE: Cheval
-  101-RABBIT: Lapin
-  102-POLAR_BEAR: Ours blanc
-  103-LLAMA: Lama
-  105-PARROT: Perroquet
-  120-VILLAGER: Villageois
-  901-TURTLE: Tortue
-  902-PHANTOM: Phantom
-  904-COD: Morue
-  905-SALMON: Saumon
-  906-PUFFERFISH: Poisson-globe
-  907-TROPICAL_FISH: Poisson tropical
-  908-DROWNED: Noyé
-  909-DOLPHIN: Dauphin
-  923-CAT: Chat
-  917-PANDA: Panda
-  918-PILLAGER: Pillager
-  919-RAVAGER: Ravager
-  920-TRADER_LLAMA: Lama de marchand
-  921-WANDERING_TRADER: Marchand ambulant
-  922-FOX: Renard
-  924-BEE: Abeille
-  926-HOGLIN: Hoglin
-  927-PIGLIN: Piglin
-  928-STRIDER: Strider
-  929-ZOGLIN: Zoglin
-  930-PIGLIN_BRUTE: Piglin barbare
-  931-AXOLOTL: Axolotl
-  932-GLOW_SQUID: Poulpe luisant
-  933-GOAT: Chèvre
-  934-ALLAY: Allay
-  936-FROG: Frog
-  937-TADPOLE: Tadpole
-  938-WARDEN: Warden
-  945-CAMEL: Camel
-  946-SNIFFER: Sniffer
-  947-ARMADILLO: Armadillo
-  914-PLAYER: Joueur
+  0-ELDER_GUARDIAN: Elder Guardian
+  0-WITHER_SKELETON: Wither Skeleton
+  0-STRAY: Stray
+  0-HUSK: Husk
+  0-ZOMBIE_VILLAGER: Zombie Villager
+  0-SKELETON_HORSE: Skeleton Horse
+  0-ZOMBIE_HORSE: Zombie Horse
+  0-ARMOR_STAND: Armor Stand
+  0-DONKEY: Donkey
+  0-MULE: Mule
+  0-EVOKER: Evoker
+  0-VEX: Vex
+  0-VINDICATOR: Vindicator
+  0-ILLUSIONER: Illusioner
+  0-CREEPER: Creeper
+  0-SKELETON: Skeleton
+  0-SPIDER: Spider
+  0-GIANT: Giant
+  0-ZOMBIE: Zombie
+  0-SLIME: Slime
+  0-GHAST: Ghast
+  0-ZOMBIFIED_PIGLIN: Zombified Piglin
+  0-ENDERMAN: Enderman
+  0-CAVE_SPIDER: Cave Spider
+  0-SILVERFISH: Silverfish
+  0-BLAZE: Blaze
+  0-MAGMA_CUBE: Magma Cube
+  0-ENDER_DRAGON: Ender Dragon
+  0-WITHER: Wither
+  0-BAT: Bat
+  0-WITCH: Witch
+  0-ENDERMITE: Endermite
+  0-GUARDIAN: Guardian
+  0-SHULKER: Shulker
+  0-PIG: Pig
+  0-SHEEP: Sheep
+  0-COW: Cow
+  0-CHICKEN: Chicken
+  0-SQUID: Squid
+  0-WOLF: Wolf
+  0-MUSHROOM_COW: Mushroom Cow
+  0-SNOW_GOLEM: Snow Golem
+  0-OCELOT: Ocelot
+  0-IRON_GOLEM: Iron Golem
+  0-HORSE: Horse
+  0-RABBIT: Rabbit
+  0-POLAR_BEAR: Polar Bear
+  0-LLAMA: Llama
+  0-PARROT: Parrot
+  0-VILLAGER: Villager
+  0-TURTLE: Turtle
+  0-PHANTOM: Phantom
+  0-COD: Cod
+  0-SALMON: Salmon
+  0-PUFFERFISH: Pufferfish
+  0-TROPICAL_FISH: Tropical Fish
+  0-DROWNED: Drowned
+  0-DOLPHIN: Dolphin
+  0-CAT: Cat
+  0-PANDA: Panda
+  0-PILLAGER: Pillager
+  0-RAVAGER: Ravager
+  0-TRADER_LLAMA: Trader Llama
+  0-WANDERING_TRADER: Wandering Trader
+  0-FOX: Fox
+  0-BEE: Bee
+  0-HOGLIN: Hoglin
+  0-PIGLIN: Piglin
+  0-STRIDER: Strider
+  0-ZOGLIN: Zoglin
+  0-PIGLIN_BRUTE: Piglin Brute
+  0-AXOLOTL: Axolotl
+  0-GLOW_SQUID: Glow Squid
+  0-GOAT: Goat
+  0-ALLAY: Allay
+  0-FROG: Frog
+  0-TADPOLE: Tadpole
+  0-WARDEN: Warden
+  0-CAMEL: Camel
+  0-SNIFFER: Sniffer
+  0-ARMADILLO: Armadillo
+  0-PLAYER: Player
 EnchantList:
   Density: Density
   Swiftsneak: Swiftsneak
