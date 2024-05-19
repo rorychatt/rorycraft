@@ -19,3 +19,4 @@ usercache.json
 ops.json
 plugins/CoreProtect/.license
 server.properties
+plugins/WorldEdit/.archive-unpack/*
